@@ -55,12 +55,22 @@ draw = () => {
 		p.y = step(p.y, plotH)
 	})
 
-	strokeWeight(Math.random() * strokeMax)
+	let w = Math.random() * strokeMax
+	if (Math.random() * 100 < 2) w *= 0.5 + strokeMax * 3
+	strokeWeight(w)
 	// stroke('rgba(125, 88, 162, 0.1')
+	blendMode(DODGE)
 	hue++
 	stroke(hue, 40, 80)
 	line(points[0].x, points[0].y, points[1].x, points[1].y)
 	let r = Math.random() * amp / (2 + Math.random() * 3)
 	ellipse(points[0].x, points[1].y, r, r)
+
+	if ( (Math.random() * 100) < 20 ) {
+		blendMode(MULTIPLY)
+		r = Math.random() * 45
+		// ellipse(Math.random() * plotW, Math.random() * plotH, r)
+		ellipse(points[1].x, points[1].y, r)
+	}
 }
 
