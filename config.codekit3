@@ -16,12 +16,109 @@
 		"oAP": "/_config.yml",
 		"oF": 0
 		},
+	"/nov01/cv18_01.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov01/cv18_01-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"/nov01/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/nov01/index.html",
 		"oF": 0
+		},
+	"/p5/addons/p5.dom.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/p5/addons/p5.dom-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/p5/addons/p5.dom.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/p5/addons/p5.dom.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/p5/addons/p5.sound.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/p5/addons/p5.sound-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/p5/addons/p5.sound.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/p5/addons/p5.sound.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/p5/empty-example/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/p5/empty-example/index.html",
+		"oF": 0
+		},
+	"/p5/empty-example/sketch.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/p5/empty-example/sketch-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/p5/p5.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/p5/p5-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/p5/p5.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/p5/p5.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/p5/p5.pre-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/p5/p5.pre-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"/README.md": {
 		"cB": 0,
@@ -1867,12 +1964,12 @@
 		"quality": 100
 		},
 	"languageDefaultsJS": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
 		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
