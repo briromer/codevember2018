@@ -33,6 +33,23 @@
 		"oAP": "/nov01/index.html",
 		"oF": 0
 		},
+	"/nov02/cv18_02.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov02/cv18_02-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov02/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov02/index.html",
+		"oF": 0
+		},
 	"/p5/addons/p5.dom.js": {
 		"ft": 64,
 		"ma": 0,
