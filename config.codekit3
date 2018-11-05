@@ -50,6 +50,57 @@
 		"oAP": "/nov02/index.html",
 		"oF": 0
 		},
+	"/nov03/cv18_03.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov03/cv18_03-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov03/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov03/index.html",
+		"oF": 0
+		},
+	"/nov04/cv18_04.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov04/cv18_04-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov04/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov04/index.html",
+		"oF": 0
+		},
+	"/nov05/cv18_05.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov05/cv18_05-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov05/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov05/index.html",
+		"oF": 0
+		},
 	"/p5/addons/p5.dom.js": {
 		"ft": 64,
 		"ma": 0,
@@ -136,6 +187,13 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0
 		},
 	"/README.md": {
 		"cB": 0,
