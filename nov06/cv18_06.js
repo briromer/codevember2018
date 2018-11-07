@@ -1,5 +1,5 @@
 var boids = [],
-	maxDrawing = 150,
+	maxDrawing = 200,
 	drawCount = 0,
   numBoids = 150,
   numTriangles = 10,
@@ -36,6 +36,7 @@ function draw() {
   for (let i = 0; i < numTriangles; i++){
     let b = boidGroups[i]
     // console.log(b[0].position.x, b[0].position.y, b[1].position.x, b[1].position.y, b[2].position.x, b[2].position.y)
+    fill(4)
     triangle(b[0].position.x, b[0].position.y, b[1].position.x, b[1].position.y, b[2].position.x, b[2].position.y)
   }
 
@@ -44,9 +45,11 @@ function draw() {
 
   noFill()
 	// stroke(random(100), 40, 10)
-	let r = 5 + random(90)
+	let r = 5 + randomGaussian(0, 100)
     // stroke = random(40)
-  	if ( random(100) < 60 ) {
+  	if ( random(100) < 90 ) {
+      c = floor(random(255))
+      stroke(`rgba(${c}, ${c}, ${c}, 0.1)`)
       ellipse( random(width), random(height), r, r)
     }
     // fill('#fff')
