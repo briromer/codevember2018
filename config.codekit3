@@ -84,6 +84,16 @@
 		"oAP": "/nov04/index.html",
 		"oF": 0
 		},
+	"/nov05/cv18_05-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov05/cv18_05-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"/nov05/cv18_05.js": {
 		"ft": 64,
 		"ma": 0,
@@ -99,6 +109,91 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/nov05/index.html",
+		"oF": 0
+		},
+	"/nov06/cv18_06.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov06/cv18_06-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov06/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov06/index.html",
+		"oF": 0
+		},
+	"/nov07/cv18_07.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov07/cv18_07-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov07/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov07/index.html",
+		"oF": 0
+		},
+	"/nov08/cv18_08.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov08/cv18_08-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov08/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov08/index.html",
+		"oF": 0
+		},
+	"/nov09/cv18_09.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov09/cv18_09-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov09/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov09/index.html",
+		"oF": 0
+		},
+	"/nov10/cv18_10.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov10/cv18_10-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov10/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov10/index.html",
 		"oF": 0
 		},
 	"/p5/addons/p5.dom.js": {
@@ -221,7 +316,7 @@
 "projectAttributes": {
 	"creationDate": 562759106.78283596,
 	"displayValue": "codevember2018",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-fry",
 	"iconImageWasSetByUser": 0
 	},
