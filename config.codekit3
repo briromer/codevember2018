@@ -196,6 +196,23 @@
 		"oAP": "/nov10/index.html",
 		"oF": 0
 		},
+	"/nov11/cv18_11.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov11/cv18_11-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov11/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov11/index.html",
+		"oF": 0
+		},
 	"/p5/addons/p5.dom.js": {
 		"ft": 64,
 		"ma": 0,
