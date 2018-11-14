@@ -16,6 +16,149 @@
 		"oAP": "/_config.yml",
 		"oF": 0
 		},
+	"/img/nov01.png": {
+		"ft": 32768,
+		"iS": 69550,
+		"oA": 0,
+		"oAP": "/img/nov01.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov02.png": {
+		"ft": 32768,
+		"iS": 75872,
+		"oA": 0,
+		"oAP": "/img/nov02.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov03.png": {
+		"ft": 32768,
+		"iS": 19997,
+		"oA": 0,
+		"oAP": "/img/nov03.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov04.png": {
+		"ft": 32768,
+		"iS": 66409,
+		"oA": 0,
+		"oAP": "/img/nov04.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov05.png": {
+		"ft": 32768,
+		"iS": 118932,
+		"oA": 0,
+		"oAP": "/img/nov05.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov06.png": {
+		"ft": 32768,
+		"iS": 99391,
+		"oA": 0,
+		"oAP": "/img/nov06.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov07.png": {
+		"ft": 32768,
+		"iS": 96794,
+		"oA": 0,
+		"oAP": "/img/nov07.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov08.png": {
+		"ft": 32768,
+		"iS": 72973,
+		"oA": 0,
+		"oAP": "/img/nov08.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov09.png": {
+		"ft": 32768,
+		"iS": 24596,
+		"oA": 0,
+		"oAP": "/img/nov09.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov10.png": {
+		"ft": 32768,
+		"iS": 57191,
+		"oA": 0,
+		"oAP": "/img/nov10.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov11.png": {
+		"ft": 32768,
+		"iS": 148639,
+		"oA": 0,
+		"oAP": "/img/nov11.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov12.png": {
+		"ft": 32768,
+		"iS": 108763,
+		"oA": 0,
+		"oAP": "/img/nov12.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov13.png": {
+		"ft": 32768,
+		"iS": 70007,
+		"oA": 0,
+		"oAP": "/img/nov13.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/nov01/cv18_01.js": {
 		"ft": 64,
 		"ma": 0,
@@ -238,6 +381,40 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/nov12/index.html",
+		"oF": 0
+		},
+	"/nov13/cv18_13.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov13/cv18_13-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov13/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov13/index.html",
+		"oF": 0
+		},
+	"/nov14/cv18_14.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov14/cv18_14-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov14/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov14/index.html",
 		"oF": 0
 		},
 	"/p5/addons/p5.dom.js": {
