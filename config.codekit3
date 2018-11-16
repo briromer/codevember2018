@@ -170,6 +170,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/nov15.png": {
+		"ft": 32768,
+		"iS": 59172,
+		"oA": 0,
+		"oAP": "/img/nov15.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/nov01/cv18_01.js": {
 		"ft": 64,
 		"ma": 0,
@@ -426,6 +437,33 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/nov14/index.html",
+		"oF": 0
+		},
+	"/nov15/cv18_15-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov15/cv18_15-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov15/cv18_15.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov15/cv18_15-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov15/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov15/index.html",
 		"oF": 0
 		},
 	"/p5/addons/p5.dom.js": {
