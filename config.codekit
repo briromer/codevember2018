@@ -595,6 +595,26 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/nov18\/cv18_18.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/nov18\/cv18_18.js",
+		"outputAbbreviatedPath": "\/nov18\/min\/cv18_18-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/nov18\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/nov18\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/p5\/addons\/p5.dom.js": {
 		"fileType": 64,
 		"ignore": 0,
