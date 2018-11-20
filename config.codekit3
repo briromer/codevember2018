@@ -466,6 +466,127 @@
 		"oAP": "/nov15/index.html",
 		"oF": 0
 		},
+	"/nov16/500x500.jpg": {
+		"ft": 16384,
+		"iS": 196904,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/nov16/500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/nov16/cv18_16.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov16/cv18_16-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov16/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov16/index.html",
+		"oF": 0
+		},
+	"/nov16/min/cv18_16-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov16/min/cv18_16-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov17/500x500.jpg": {
+		"ft": 16384,
+		"iS": 196904,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/nov17/500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/nov17/cv18_17.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov17/cv18_17-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov17/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov17/index.html",
+		"oF": 0
+		},
+	"/nov17/min/cv18_16-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov17/min/cv18_16-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov17/spongebob.jpg": {
+		"ft": 16384,
+		"iS": 55556,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/nov17/spongebob.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/nov18/cv18_18.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov18/cv18_18-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov18/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov18/index.html",
+		"oF": 0
+		},
+	"/nov19/cv18_19.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov19/cv18_19-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov19/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov19/index.html",
+		"oF": 0
+		},
 	"/p5/addons/p5.dom.js": {
 		"ft": 64,
 		"ma": 0,
@@ -549,6 +670,16 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/p5/p5.pre-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/p5/p5scribble.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/p5/p5scribble-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
