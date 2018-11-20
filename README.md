@@ -68,11 +68,11 @@
 
 [![](img/nov17.png)](nov17/)
 
-[Nov 17](nov18/)
+[Nov 18](nov18/)
 
 [![](img/nov18.png)](nov18/)
 
-[Nov 17](nov19/)
+[Nov 19](nov19/)
 
 [![](img/nov19.png)](nov19/)
 
