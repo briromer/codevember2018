@@ -80,3 +80,7 @@
 
 [![](img/nov20.png)](nov20/)
 
+[Nov 21](nov21/)
+
+[![](img/nov21.png)](nov21/)
+
