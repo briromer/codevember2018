@@ -76,3 +76,7 @@
 
 [![](img/nov19.png)](nov19/)
 
+[Nov 20](nov20/)
+
+[![](img/nov20.png)](nov20/)
+
