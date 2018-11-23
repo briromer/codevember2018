@@ -181,6 +181,83 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/nov17.png": {
+		"ft": 32768,
+		"iS": 105155,
+		"oA": 0,
+		"oAP": "/img/nov17.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov18.png": {
+		"ft": 32768,
+		"iS": 90279,
+		"oA": 0,
+		"oAP": "/img/nov18.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov19.png": {
+		"ft": 32768,
+		"iS": 38665,
+		"oA": 0,
+		"oAP": "/img/nov19.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov20.png": {
+		"ft": 32768,
+		"iS": 72173,
+		"oA": 0,
+		"oAP": "/img/nov20.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov21.png": {
+		"ft": 32768,
+		"iS": 107503,
+		"oA": 0,
+		"oAP": "/img/nov21.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov22.png": {
+		"ft": 32768,
+		"iS": 38621,
+		"oA": 0,
+		"oAP": "/img/nov22.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov23.png": {
+		"ft": 32768,
+		"iS": 58504,
+		"oA": 0,
+		"oAP": "/img/nov23.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/nov01/cv18_01.js": {
 		"ft": 64,
 		"ma": 0,
@@ -619,6 +696,40 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/nov21/index.html",
+		"oF": 0
+		},
+	"/nov22/cv18_22.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov22/cv18_22-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov22/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov22/index.html",
+		"oF": 0
+		},
+	"/nov23/cv18_23.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/nov23/cv18_23-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov23/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov23/index.html",
 		"oF": 0
 		},
 	"/p5/addons/p5.dom.js": {

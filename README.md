@@ -84,3 +84,11 @@
 
 [![](img/nov21.png)](nov21/)
 
+[Nov 22](nov22/)
+
+[![](img/nov22.png)](nov22/)
+
+[Nov 23](nov23/)
+
+[![](img/nov23.png)](nov23/)
+
