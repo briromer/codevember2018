@@ -92,3 +92,11 @@
 
 [![](img/nov23.png)](nov23/)
 
+[Nov 24](nov24/)
+
+[![](img/nov24.png)](nov24/)
+
+[Nov 25](nov25/)
+
+[![](img/nov25.png)](nov25/)
+
