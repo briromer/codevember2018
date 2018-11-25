@@ -21,13 +21,15 @@ function setup() {
   for (let i = 0; i < numThreads; i++) {
     let up = random() > 0.5 ? 1 : -1
     let startY = up == 1 ? 0 : height
+    let r = random(10, 20)
+    // if (random() > 0.97) r = random(30, 50)
     threads.push({
       x: random(width),
       y: startY,
       vx: random(-6, 6),
       vy: up * random(5, 9),
       hue: random(0, 20),
-      r: random(10, 20),
+      r: r,
       xFriction: random(0.85, 0.9),
       yFriction: random(0.9, 0.97)
     })
