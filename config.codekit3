@@ -272,7 +272,7 @@
 	"/nov01/cv18_01.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov01/cv18_01-min.js",
 		"oF": 0,
@@ -289,7 +289,7 @@
 	"/nov02/cv18_02.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov02/cv18_02-min.js",
 		"oF": 0,
@@ -306,7 +306,7 @@
 	"/nov03/cv18_03.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov03/cv18_03-min.js",
 		"oF": 0,
@@ -323,7 +323,7 @@
 	"/nov04/cv18_04.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov04/cv18_04-min.js",
 		"oF": 0,
@@ -340,7 +340,7 @@
 	"/nov05/cv18_05-min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov05/cv18_05-min-min.js",
 		"oF": 0,
@@ -350,7 +350,7 @@
 	"/nov05/cv18_05.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov05/cv18_05-min.js",
 		"oF": 0,
@@ -367,7 +367,7 @@
 	"/nov06/cv18_06.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov06/cv18_06-min.js",
 		"oF": 0,
@@ -384,7 +384,7 @@
 	"/nov07/cv18_07.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov07/cv18_07-min.js",
 		"oF": 0,
@@ -401,7 +401,7 @@
 	"/nov08/cv18_08.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov08/cv18_08-min.js",
 		"oF": 0,
@@ -418,7 +418,7 @@
 	"/nov09/cv18_09.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov09/cv18_09-min.js",
 		"oF": 0,
@@ -435,7 +435,7 @@
 	"/nov10/cv18_10.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov10/cv18_10-min.js",
 		"oF": 0,
@@ -452,7 +452,7 @@
 	"/nov11/cv18_11.1.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov11/cv18_11.1-min.js",
 		"oF": 0,
@@ -462,7 +462,7 @@
 	"/nov11/cv18_11.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov11/cv18_11-min.js",
 		"oF": 0,
@@ -479,7 +479,7 @@
 	"/nov12/cv18_12.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov12/cv18_12-min.js",
 		"oF": 0,
@@ -496,7 +496,7 @@
 	"/nov13/cv18_13.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov13/cv18_13-min.js",
 		"oF": 0,
@@ -513,7 +513,7 @@
 	"/nov14/cv18_14.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov14/cv18_14-min.js",
 		"oF": 0,
@@ -530,7 +530,7 @@
 	"/nov15/cv18_15-min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov15/cv18_15-min-min.js",
 		"oF": 0,
@@ -540,7 +540,7 @@
 	"/nov15/cv18_15.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov15/cv18_15-min.js",
 		"oF": 0,
@@ -568,7 +568,7 @@
 	"/nov16/cv18_16.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov16/cv18_16-min.js",
 		"oF": 0,
@@ -585,7 +585,7 @@
 	"/nov16/min/cv18_16-min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov16/min/cv18_16-min-min.js",
 		"oF": 0,
@@ -606,7 +606,7 @@
 	"/nov17/cv18_17.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov17/cv18_17-min.js",
 		"oF": 0,
@@ -623,7 +623,7 @@
 	"/nov17/min/cv18_16-min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov17/min/cv18_16-min-min.js",
 		"oF": 0,
@@ -644,7 +644,7 @@
 	"/nov18/cv18_18.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov18/cv18_18-min.js",
 		"oF": 0,
@@ -661,7 +661,7 @@
 	"/nov19/cv18_19.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov19/cv18_19-min.js",
 		"oF": 0,
@@ -678,7 +678,7 @@
 	"/nov20/cv18_20.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov20/cv18_20-min.js",
 		"oF": 0,
@@ -695,7 +695,7 @@
 	"/nov21/cv18_21.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov21/cv18_21-min.js",
 		"oF": 0,
@@ -712,7 +712,7 @@
 	"/nov22/cv18_22.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov22/cv18_22-min.js",
 		"oF": 0,
@@ -729,7 +729,7 @@
 	"/nov23/cv18_23.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/nov23/cv18_23-min.js",
 		"oF": 0,
@@ -743,10 +743,61 @@
 		"oAP": "/nov23/index.html",
 		"oF": 0
 		},
+	"/nov24/cv18_24.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/nov24/cv18_24-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov24/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov24/index.html",
+		"oF": 0
+		},
+	"/nov25/cv18_25.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/nov25/cv18_25-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov25/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov25/index.html",
+		"oF": 0
+		},
+	"/nov27/cv18_26.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/nov27/cv18_26-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov27/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov27/index.html",
+		"oF": 0
+		},
 	"/p5/addons/p5.dom.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/p5/addons/p5.dom-min.js",
 		"oF": 0,
@@ -756,7 +807,7 @@
 	"/p5/addons/p5.dom.min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/p5/addons/p5.dom.min-min.js",
 		"oF": 0,
@@ -766,7 +817,7 @@
 	"/p5/addons/p5.sound.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/p5/addons/p5.sound-min.js",
 		"oF": 0,
@@ -776,7 +827,7 @@
 	"/p5/addons/p5.sound.min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/p5/addons/p5.sound.min-min.js",
 		"oF": 0,
@@ -793,7 +844,7 @@
 	"/p5/empty-example/sketch.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/p5/empty-example/sketch-min.js",
 		"oF": 0,
@@ -803,7 +854,7 @@
 	"/p5/p5.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/p5/p5-min.js",
 		"oF": 0,
@@ -813,7 +864,7 @@
 	"/p5/p5.min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/p5/p5.min-min.js",
 		"oF": 0,
@@ -823,7 +874,7 @@
 	"/p5/p5.pre-min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/p5/p5.pre-min-min.js",
 		"oF": 0,
@@ -833,7 +884,7 @@
 	"/p5/p5scribble.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/p5/p5scribble-min.js",
 		"oF": 0,
@@ -2698,7 +2749,7 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"minifyOutput": 1,
+		"minifyOutput": 0,
 		"syntaxCheckerStyle": 1,
 		"transpilerStyle": 0
 		},

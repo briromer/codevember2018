@@ -100,3 +100,7 @@
 
 [![](img/nov25.png)](nov25/)
 
+[Nov 27](nov27/)
+
+[![](img/nov27.png)](nov27/)
+
