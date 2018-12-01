@@ -313,6 +313,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/nov29.png": {
+		"ft": 32768,
+		"iS": 111742,
+		"oA": 0,
+		"oAP": "/img/nov29.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nov30.png": {
+		"ft": 32768,
+		"iS": 113048,
+		"oA": 0,
+		"oAP": "/img/nov30.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/nov01/cv18_01.js": {
 		"ft": 64,
 		"ma": 0,
@@ -863,6 +885,50 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/nov28/index.html",
+		"oF": 0
+		},
+	"/nov29/cv18_29.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/nov29/cv18_28-min.js",
+		"oF": 3,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov29/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov29/index.html",
+		"oF": 0
+		},
+	"/nov30/cv18_30-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/nov30/cv18_30-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov30/cv18_30.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/nov30/cv18_30-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/nov30/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/nov30/index.html",
 		"oF": 0
 		},
 	"/p5/addons/p5.dom.js": {
